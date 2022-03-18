@@ -11,7 +11,7 @@ O desenvolvimento do sistema foi divido no backend, frontend e banco de dados lo
 Foram utilizados HTML e CSS no desenvolvimento do frontend do sistema.
 
 ### Back-end
-Já no backend, foi utilizado JS, para a inserção e recuperação de informações e seu processamento no banco de dados local.
+Foi utilizado JS no backend para a inserção e recuperação de informações e seu processamento no banco de dados local.
 
 ### Banco de dados local
 Foi utilizado um LocalStorage para o armazenamento de informações pelo JavaScript.
