@@ -1,2 +1,2 @@
 # Case-Mind
-Plataforma de CRUD de alunos.
+Plataforma de CRUD de alunos
